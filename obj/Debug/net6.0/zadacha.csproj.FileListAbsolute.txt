@@ -1,0 +1,15 @@
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.csproj.AssemblyReference.cache
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfoInputs.cache
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.AssemblyInfo.cs
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.csproj.CoreCompileInputs.cache
+C:\education\итого\zadacha\bin\Debug\net6.0\zadacha.exe
+C:\education\итого\zadacha\bin\Debug\net6.0\zadacha.deps.json
+C:\education\итого\zadacha\bin\Debug\net6.0\zadacha.runtimeconfig.json
+C:\education\итого\zadacha\bin\Debug\net6.0\zadacha.dll
+C:\education\итого\zadacha\bin\Debug\net6.0\zadacha.pdb
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.dll
+C:\education\итого\zadacha\obj\Debug\net6.0\refint\zadacha.dll
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.pdb
+C:\education\итого\zadacha\obj\Debug\net6.0\zadacha.genruntimeconfig.cache
+C:\education\итого\zadacha\obj\Debug\net6.0\ref\zadacha.dll
